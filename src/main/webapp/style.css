@@ -1,0 +1,29 @@
+body
+{
+    background: #FEFEE2;
+}
+h1{
+    color: crimson;
+}
+#titres
+{
+    text-align: left;
+    color : rebeccapurple;
+}
+
+li
+{
+    cursor: pointer;
+}
+li:hover
+{
+    color: chocolate;
+}
+#globalDiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
